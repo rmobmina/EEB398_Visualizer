@@ -1,0 +1,12 @@
+name: ksr_shinyapp
+title: KSR_ShinyApp
+username: rmobmina
+account: rmobmina
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15134338
+bundleId: 10700711
+url: https://rmobmina.shinyapps.io/ksr_shinyapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
